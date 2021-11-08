@@ -23,7 +23,7 @@
 
 <br>
 
-<a href="https://qodelaravel.herokuapp.com"> Click here Check it out</a>
+<a href="https://qodelaravel.herokuapp.com"> Click here to Check it out</a>
 
 <br>
 
@@ -31,14 +31,14 @@
 
 <br>
 
-<a href="https://qodelaravel.herokuapp.com"> Click here Check it out</a>
+<a href="https://qodelaravel.herokuapp.com"> Click here to Check it out</a>
 
 <br>
 
 - 👨‍💻 A Logistics Platform for Warehouse and Fleet Management built with [PHP] [Laravel] for  <a href="https://logistx.ng"> Logistix.ng</a> 
 <br>
 
-<a href="https://qodelaravel.herokuapp.com"> Click here Check it out</a>
+<a href="https:/logistix.ng"> Click here to Check it out</a>
 
 <br>
 
