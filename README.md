@@ -23,7 +23,7 @@
 
 <br>
 
-- 👨‍💻 A Logistics Platform for Warehouse and Fleet Management built for  <a href="https://logistx.ng"> Logistix.ng</a>  https://logistix.ng/) [PHP] [Laravel]
+- 👨‍💻 A Logistics Platform for Warehouse and Fleet Management built for  <a href="https://logistx.ng"> Logistix.ng</a> [PHP] [Laravel]
 
 <br>
 
@@ -40,20 +40,17 @@
 
 - 💬 Ask me about **PHP, Laravel,Flutter,React,Blogs,Gaming,Music.**
 
+
+- ⚡ Fun fact **I'm a nerd who's very fun to be with.**
+
+<br>
+
 - 📫 How to reach me **erone007@gmail.com**
 <br>
 
 <a href="mailto:erone007@gmail.com"> 
 
-![erone007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
-
-<br>
-<a href="https://linkedin.com/in/nuel0"> 
-
-![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
-
-
-- ⚡ Fun fact **I'm a nerd who's very fun to be with.**
+![erone007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://linkedin.com/in/nuel0">  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
 <br>
