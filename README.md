@@ -31,7 +31,7 @@
 
 <br>
 
-<a href="https://qodelaravel.herokuapp.com"> Click here to Check it out</a>
+<a href="https://qodestone-api.herokuapp.com"> Click here to Check it out</a>
 
 <br>
 
