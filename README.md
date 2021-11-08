@@ -42,7 +42,6 @@
 
 - 👨‍💻 <a href="https://play.google.com/store/apps/details?id=app.newscentral.africa&hl=gl&gl=US"> Download for Android</a> 
 
-<br>
 - 👨‍💻 <a href="https://apps.apple.com/us/app/news-central-tv-africa/id1544073979"> Download for iOS</a> 
 <br>
 
