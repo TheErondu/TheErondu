@@ -11,10 +11,11 @@
 <br>
 <h5>Projects in the Wild :wink:</h5>
 
-- 👨‍💻 A Newsroom Control System Currently being Developed at <a href="https://newscentral.africa"> News Central TV</a>  https://qodelaravel.herokuapp.com/)- [PHP] [Laravel]
+- 👨‍💻 A Newsroom Control System Currently being Developed at <a href="https://newscentral.africa"> News Central TV</a>  https://qodelaravel.herokuapp.com/) by Yours Truly [PHP] [Laravel]
 
 <br>
-- 👨‍💻 A Demo REST API built with NodeJS hosted on heroku cloud.  https://qodestone-api.herokuapp.com/)
+
+-  👨‍💻 A Demo REST API built with NodeJS hosted on heroku cloud.  https://qodestone-api.herokuapp.com/)
 
 <br>
 
@@ -22,13 +23,15 @@
 
 <br>
 
-A Mobile App Consuming a Wordpress REST API (built with Flutter) for News Central Television - A News TV Channel Bring the Best of Africa to the World.
-
+- 👨‍💻 A Mobile App Consuming a Wordpress REST API (built with Flutter) for News Central Television - A News TV Channel Bring the Best of Africa to the World.
+<p>
 <a href="https://play.google.com/store/apps/details?id=app.newscentral.africa&hl=gl&gl=US"> Download for Android</a> 
 
 <br>
 <a href="https://apps.apple.com/us/app/news-central-tv-africa/id1544073979"> Download for iOS</a> 
 <br>
+
+</p>
 
 
 - 💬 Ask me about **PHP, Laravel,Flutter,React,Blogs,Gaming,Music.**
