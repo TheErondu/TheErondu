@@ -42,7 +42,7 @@
 
 <br>
 
-- 👨‍💻 A Mobile App Consuming a Wordpress REST API (built with Flutter) for News Central Television - A News TV Channel Bring the Best of Africa to the World.
+- 👨‍💻 A Mobile App Consuming a Wordpress REST API (built with Flutter) for News Central Television - A News TV Channel Bringing the Best of Africa to the World.
 
 - 👨‍💻 <a href="https://play.google.com/store/apps/details?id=app.newscentral.africa&hl=gl&gl=US"> Download for Android</a> 
 
