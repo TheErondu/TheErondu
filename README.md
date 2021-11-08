@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm Erondu Emmanuel</h1>
+
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=neodavids.neodavids)
+
+
 <h2>I am a Fullstack PHP Laravel Developer [Bootstrap 5 and React Frontend], I also Develop Hybrid Mobile Apps Using Flutter[Dart]</h2>
 
 <h2>I Currently work as a Full Stack  Developer / Systems Administrator at <br>
@@ -54,8 +58,6 @@
 - ⚡ Fun fact **I'm a nerd who's very fun to be with.**
 
 <br>
-
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=neodavids.neodavids)
 
 - 📫 How to reach me **erone007@gmail.com**
 <br>
