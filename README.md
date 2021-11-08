@@ -8,6 +8,29 @@
 
 - 👨‍💻 All of my projects are available at my profile at [https://profile.codersrank.io/user/neodavids)
 
+<br>
+<h5>Projects in the Wild :wink:</h5>
+
+- 👨‍💻 A Newsroom Control System Currently being Developed at <a href="https://newscentral.africa"> News Central TV</a>  https://qodelaravel.herokuapp.com/)- [PHP] [Laravel]
+
+<br>
+- 👨‍💻 A Demo REST API built with NodeJS hosted on heroku cloud.  https://qodestone-api.herokuapp.com/)
+
+<br>
+
+- 👨‍💻 A Logistics Platform for Warehouse and Fleet Management built for  <a href="https://logistx.ng"> Logistix.ng</a>  https://logistix.ng/) [PHP] [Laravel]
+
+<br>
+
+A Mobile App Consuming a Wordpress REST API (built with Flutter) for News Central Television - A News TV Channel Bring the Best of Africa to the World.
+
+<a href="https://play.google.com/store/apps/details?id=app.newscentral.africa&hl=gl&gl=US"> Download for Android</a> 
+
+<br>
+<a href="https://apps.apple.com/us/app/news-central-tv-africa/id1544073979"> Download for iOS</a> 
+<br>
+
+
 - 💬 Ask me about **PHP, Laravel,Flutter,React,Blogs,Gaming,Music.**
 
 - 📫 How to reach me **erone007@gmail.com**
