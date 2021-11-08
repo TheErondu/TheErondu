@@ -19,7 +19,7 @@
 
 <br>
 
-<a href="https://qodelaravel.herokuapp.com"> Check it out</a>
+<a href="https://qodelaravel.herokuapp.com"> Click here Check it out</a>
 
 <br>
 
@@ -27,14 +27,14 @@
 
 <br>
 
-<a href="https://qodelaravel.herokuapp.com"> Check it out</a>
+<a href="https://qodelaravel.herokuapp.com"> Click here Check it out</a>
 
 <br>
 
 - 👨‍💻 A Logistics Platform for Warehouse and Fleet Management built with [PHP] [Laravel] for  <a href="https://logistx.ng"> Logistix.ng</a> 
 <br>
 
-<a href="https://qodelaravel.herokuapp.com"> Check it out</a>
+<a href="https://qodelaravel.herokuapp.com"> Click here Check it out</a>
 
 <br>
 
@@ -56,6 +56,8 @@
 
 <br>
 
+![Visitors](https://visitor-badge.laobi.icu/badge?page_id=neodavids.neodavids)
+
 - 📫 How to reach me **erone007@gmail.com**
 <br>
 
@@ -64,18 +66,17 @@
 ![erone007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a> <a href="https://linkedin.com/in/nuel0">  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
 
 
-<br>
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=neodavids&count_private=true&show_icons=true&hide=contribs)
- 
-<br>
- 
-![Visitor](https://visitor-badge.laobi.icu/badge?page_id=neodavids.neodavids)
-
 
 <br>
  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=neodavids&layout=compact)
+
+<br>
+
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=neodavids&count_private=true&show_icons=true&hide=contribs)
+ 
+
 
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
