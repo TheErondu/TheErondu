@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Erondu Emmanuel</h1>
 <h2>I am a Fullstack PHP Laravel Developer [Bootstrap 5 and React Frontend], I also Develop Hybrid Mobile Apps Using Flutter[Dart]</h2>
 
-<h2>I Currently work as a Fullstack  Developer / Systems Administrator at <a href="https://newscentral.africa"> News Central TV</a></h2>
+<h2>I Currently work as a Full Stack  Developer / Systems Administrator at <br>
+<a href="https://newscentral.africa"> News Central TV</a></h2>
 
 <h3 align="center">I am a Graduate of logistics and Transport Technology from Federal University of Technology Owerri, Imo State.</h3>
 
