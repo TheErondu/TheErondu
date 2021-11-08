@@ -15,24 +15,35 @@
 <br>
 <h2>Projects in the Wild :wink:</h2>
 
-- 👨‍💻 A Newsroom Control System Currently being Developed at <a href="https://newscentral.africa"> News Central TV</a>  https://qodelaravel.herokuapp.com/) by Yours Truly [PHP] [Laravel]
+- 👨‍💻 A Newsroom Control System Currently being Developed in  [PHP] [Laravel] at <a href="https://newscentral.africa"> News Central TV</a> by Yours Truly 
 
 <br>
 
--  👨‍💻 A Demo REST API built with NodeJS hosted on heroku cloud.  https://qodestone-api.herokuapp.com/)
+<a href="https://qodelaravel.herokuapp.com"> Check it out</a>
 
 <br>
 
-- 👨‍💻 A Logistics Platform for Warehouse and Fleet Management built for  <a href="https://logistx.ng"> Logistix.ng</a> [PHP] [Laravel]
+-  👨‍💻 A Demo REST API built with NodeJS hosted on heroku cloud.
+
+<br>
+
+<a href="https://qodelaravel.herokuapp.com"> Check it out</a>
+
+<br>
+
+- 👨‍💻 A Logistics Platform for Warehouse and Fleet Management built with [PHP] [Laravel] for  <a href="https://logistx.ng"> Logistix.ng</a> 
+<br>
+
+<a href="https://qodelaravel.herokuapp.com"> Check it out</a>
 
 <br>
 
 - 👨‍💻 A Mobile App Consuming a Wordpress REST API (built with Flutter) for News Central Television - A News TV Channel Bring the Best of Africa to the World.
-<p>
-<a href="https://play.google.com/store/apps/details?id=app.newscentral.africa&hl=gl&gl=US"> Download for Android</a> 
+
+- 👨‍💻 <a href="https://play.google.com/store/apps/details?id=app.newscentral.africa&hl=gl&gl=US"> Download for Android</a> 
 
 <br>
-<a href="https://apps.apple.com/us/app/news-central-tv-africa/id1544073979"> Download for iOS</a> 
+- 👨‍💻 <a href="https://apps.apple.com/us/app/news-central-tv-africa/id1544073979"> Download for iOS</a> 
 <br>
 
 </p>
