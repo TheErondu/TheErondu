@@ -1,5 +1,8 @@
 <h1 align="center">Hi 👋, I'm Erondu Emmanuel</h1>
 <h2>I am a Fullstack PHP Laravel Developer [Bootstrap 5 and React Frontend], I also Develop Hybrid Mobile Apps Using Flutter[Dart]</h2>
+
+<h2>I Currently work as a Fullstack  Developer / Systems Administrator at <a href="https://newscentral.africa"> News Central TV</a></h2>
+
 <h3 align="center">I am a Graduate of logistics and Transport Technology from Federal University of Technology Owerri, Imo State.</h3>
 
 - 🌱 I’m currently learning **Full Stack JavaSCript Development.** **AWS Cloud Computing Fundamentals.**
@@ -9,7 +12,7 @@
 - 👨‍💻 All of my projects are available at my profile at [https://profile.codersrank.io/user/neodavids)
 
 <br>
-<h5>Projects in the Wild :wink:</h5>
+<h2>Projects in the Wild :wink:</h2>
 
 - 👨‍💻 A Newsroom Control System Currently being Developed at <a href="https://newscentral.africa"> News Central TV</a>  https://qodelaravel.herokuapp.com/) by Yours Truly [PHP] [Laravel]
 
@@ -37,6 +40,17 @@
 - 💬 Ask me about **PHP, Laravel,Flutter,React,Blogs,Gaming,Music.**
 
 - 📫 How to reach me **erone007@gmail.com**
+<br>
+
+<a href="mailto:erone007@gmail.com"> 
+
+![erone007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)</a>
+
+<br>
+<a href="https://linkedin.com/in/nuel0"> 
+
+![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)</a>
+
 
 - ⚡ Fun fact **I'm a nerd who's very fun to be with.**
 
