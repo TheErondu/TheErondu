@@ -41,6 +41,13 @@
 - ⚡ Fun fact **I'm a nerd who's very fun to be with.**
 
 
+![Visitor](https://visitor-badge.laobi.icu/badge?page_id=neodavids.neodavids)
+
+<br>
+
+![Overall Stats](https://github-readme-stats.vercel.app/api?username=neodavids&count_private=true&show_icons=true&hide=contribs)
+
+
 <!-- BLOG-POST-LIST:START -->
 <!-- BLOG-POST-LIST:END -->
 <!-- 
