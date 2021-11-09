@@ -8,7 +8,7 @@
 <h2>I Currently work as a Full Stack  Developer / Systems Administrator at <br>
 <a href="https://newscentral.africa"> News Central TV</a></h2>
 
-<h3 align="center">I am a Graduate of logistics and Transport Technology from Federal University of Technology Owerri, Imo State.</h3>
+<h3 align="center">Certified in logistics and Transport Technology from The Federal University of Technology Owerri, Imo State, Nigeria.</h3>
 
 - 🌱 I’m currently learning **Full Stack JavaSCript Development.** **AWS Cloud Computing Fundamentals.**
 
