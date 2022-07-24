@@ -14,8 +14,6 @@
 
 - 🎯 I'm Working on Improving my Devops Engineering skills.
 
-- 👨‍💻 All of my projects are available at my profile at [https://profile.codersrank.io/user/neodavids)
-
 <br>
 <h2>Projects in the Wild :wink:</h2>
 
@@ -32,13 +30,6 @@
 <br>
 
 <a href="https://qodestone-api.herokuapp.com"> Click here to Check it out</a>
-
-<br>
-
-- 👨‍💻 A Logistics Platform for Warehouse and Fleet Management built with [PHP] [Laravel] for  <a href="https://logistx.ng"> Logistix.ng</a> 
-<br>
-
-<a href="https://logistix.ng"> Click here to Check it out</a>
 
 <br>
 
