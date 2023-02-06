@@ -12,7 +12,8 @@
 
 - 🌱 I’m currently learning ** Rust programming.** **AWS Cloud Computing Fundamentals.**
 
-
+<br>
+<h2>Projects in the Wild :wink:</h2>
 
 - 👨‍💻 A Mobile App Consuming a Wordpress REST API (built with Flutter) for News Central Television - A News TV Channel Bringing the Best of Africa to the World.
 
