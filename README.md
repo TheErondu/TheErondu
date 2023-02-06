@@ -10,28 +10,9 @@
 
 <h3 align="center">Certified in logistics and Transport Technology from The Federal University of Technology Owerri, Imo State, Nigeria.</h3>
 
-- 🌱 I’m currently learning **Full Stack JavaSCript Development.** **AWS Cloud Computing Fundamentals.**
+- 🌱 I’m currently learning ** Rust programming.** **AWS Cloud Computing Fundamentals.**
 
-- 🎯 I'm Working on Improving my Devops Engineering skills.
 
-<br>
-<h2>Projects in the Wild :wink:</h2>
-
-- 👨‍💻 A Newsroom Control System Currently being Developed in  [PHP] [Laravel] at <a href="https://newscentral.africa"> News Central TV</a> by Yours Truly 
-
-<br>
-
-<a href="https://qodelaravel.herokuapp.com"> Click here to Check it out</a>
-
-<br>
-
--  👨‍💻 A Demo REST API built with NodeJS hosted on heroku cloud.
-
-<br>
-
-<a href="https://qodestone-api.herokuapp.com"> Click here to Check it out</a>
-
-<br>
 
 - 👨‍💻 A Mobile App Consuming a Wordpress REST API (built with Flutter) for News Central Television - A News TV Channel Bringing the Best of Africa to the World.
 
