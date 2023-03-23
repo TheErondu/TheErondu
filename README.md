@@ -33,12 +33,11 @@ Features:
 
 - 👨‍💻 <a href="https://129.205.123.122:7443"> Checkout a Demo Instance </a> 
 <br>
+```
 Login details: 
-<br>
-- email:admin@admin.com 
-- passwword:123456
-- 
-- 
+email:admin@admin.com
+passwword:123456
+```
 <br>
 
 </p>
