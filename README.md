@@ -22,6 +22,19 @@
 - 👨‍💻 <a href="https://apps.apple.com/us/app/news-central-tv-africa/id1544073979"> Download for iOS</a> 
 <br>
 
+- 👨‍💻 A Media Asset Management and Workflow App for News and TV production Scenario
+- Features:
+- Media asset management
+- Scheduling
+- Ticketing and support
+- Mileage Tracker for OB (outside broadcast vehicles)
+- Store and Inventory Management
+- Facility and Studio Booking.
+
+- 👨‍💻 <a href="https://129.205.123.122:7443"> Demo Instance </a> 
+- 
+<br>
+
 </p>
 
 
