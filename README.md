@@ -17,13 +17,10 @@
 
 - 👨‍💻 A Mobile App Consuming a Wordpress REST API (built with Flutter) for News Central Television - A News TV Channel Bringing the Best of Africa to the World.
 
-- 👨‍💻 <a href="https://play.google.com/store/apps/details?id=app.newscentral.africa&hl=gl&gl=US"> Download for Android</a> 
+- 👨‍💻 <a href="https://play.google.com/store/apps/details?id=app.newscentral.africa&hl=gl&gl=US"> Download for Android</a><br>
 
-- 👨‍💻 <a href="https://apps.apple.com/us/app/news-central-tv-africa/id1544073979"> Download for iOS</a> 
-<br>
-
-- 👨‍💻 A Media Asset Management and Workflow App for News and TV production Scenario
-<br>
+- 👨‍💻 <a href="https://apps.apple.com/us/app/news-central-tv-africa/id1544073979"> Download for iOS</a> <br>
+- 👨‍💻 A Media Asset Management and Workflow App for News and TV production Scenario <br>
 Features:
 <br>
 🌱 Media asset management
@@ -35,11 +32,11 @@ Features:
 
 <p>👨‍💻 <a href="https://129.205.123.122:7443"> Checkout a Demo Instance </a> </p>
 
-``
-Login details: 
+```
+Login details:
 email:admin@admin.com
 passwword:123456
-``
+```
 
 
 - 💬 Ask me about **PHP, Laravel,Flutter,React,Blogs,Gaming,Music.**
