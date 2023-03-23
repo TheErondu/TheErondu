@@ -23,7 +23,7 @@
 <br>
 
 - 👨‍💻 A Media Asset Management and Workflow App for News and TV production Scenario
-- Features:
+Features:
 - Media asset management
 - Scheduling
 - Ticketing and support
@@ -31,7 +31,11 @@
 - Store and Inventory Management
 - Facility and Studio Booking.
 
-- 👨‍💻 <a href="https://129.205.123.122:7443"> Demo Instance </a> 
+- 👨‍💻 <a href="https://129.205.123.122:7443"> Checkout a Demo Instance </a> 
+Login details: 
+- email:admin@admin.com 
+- passwword:123456
+- 
 - 
 <br>
 
