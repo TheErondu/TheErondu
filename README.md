@@ -29,11 +29,13 @@
    🌱 Store and Inventory Management
    🌱 Facility and Studio Booking.
       <p>👨‍💻 <a href="https://129.205.123.122:7443"> Checkout a Demo Instance </a> </p><br>
+      
          ```
          Login details:
          email:admin@admin.com
-         passwword:123456
+         password:123456
          ```
+         
 - 💬 Ask me about **PHP, Laravel,Flutter,React,Blogs,Gaming,Music.**
 
 
