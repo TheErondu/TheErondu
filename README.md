@@ -23,16 +23,23 @@
 <br>
 
 - 👨‍💻 A Media Asset Management and Workflow App for News and TV production Scenario
+<br>
 Features:
-- Media asset management
-- Scheduling
-- Ticketing and support
-- Mileage Tracker for OB (outside broadcast vehicles)
-- Store and Inventory Management
-- Facility and Studio Booking.
+<br>
+🌱 Media asset management
+🌱 Scheduling
+🌱 Ticketing and support
+🌱 Mileage Tracker for OB (outside broadcast vehicles)
+🌱 Store and Inventory Management
+🌱 Facility and Studio Booking.
 
-- 👨‍💻 <a href="https://129.205.123.122:7443"> Checkout a Demo Instance </a> 
+<p>👨‍💻 <a href="https://129.205.123.122:7443"> Checkout a Demo Instance </a> </p>
 
+``
+Login details: 
+email:admin@admin.com
+passwword:123456
+``
 
 
 - 💬 Ask me about **PHP, Laravel,Flutter,React,Blogs,Gaming,Music.**
