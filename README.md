@@ -20,7 +20,7 @@
    - 👨‍💻 <a href="https://play.google.com/store/apps/details?id=app.newscentral.africa&hl=gl&gl=US"> Download for Android</a><br>
 
    - 👨‍💻 <a href="https://apps.apple.com/us/app/news-central-tv-africa/id1544073979"> Download for iOS</a> <br>
-- 👨‍💻 A Media Asset Management and Workflow App for News and TV production Scenario <br>
+- 👨‍💻 Brave -  A Media Asset Management and Workflow App for News and TV production Scenario made for Bravetech.media <br>
    Features:<br>
    🌱 Media asset management
    🌱 Scheduling
@@ -36,6 +36,10 @@
          password:123456
          
          
+- 👨‍💻 WhatsApp Sender.
+Send a message to Whatsapp Phone Numbers without saving to contacts.
+https://qodestone.dev/whatsapp-sender
+
 - 💬 Ask me about **PHP, Laravel,Flutter,React,Blogs,Gaming,Music.**
 
 
