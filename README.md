@@ -6,7 +6,7 @@
 <h2>I am a Fullstack PHP Laravel Developer [Bootstrap 5 and React Frontend], I also Develop Hybrid Mobile Apps Using Flutter[Dart]</h2>
 
 <h2>I Currently work as a Full Stack  Developer / Systems Administrator at <br>
-<a href="https://newscentral.africa"> News Central TV</a></h2>
+<a href="https://newscentral.africa"> News Central TV</a> and A frontend Software Engineer at <a href="https://first-allyasset.com"> First Ally Capital</a> building the Mobile App for <a href="https://myinvestar.ng"> Myinvestar </a> -  digital wealth management application that helps you confidently invest and save. </h2>
 
 <h3 align="center">Certified in logistics and Transport Technology from The Federal University of Technology Owerri, Imo State, Nigeria.</h3>
 
