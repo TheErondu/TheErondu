@@ -10,7 +10,7 @@
 
 <h3 align="center">Certified in logistics and Transport Technology from The Federal University of Technology Owerri, Imo State, Nigeria.</h3>
 
-- 🌱 I’m currently learning ** Rust programming.** **AWS Cloud Computing Fundamentals.**
+- 🌱 I’m currently learning ** C# DotNet core** **AWS Cloud Computing Fundamentals.**
 
 <br>
 <h2>Projects in the Wild :wink:</h2>
