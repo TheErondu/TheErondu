@@ -34,9 +34,11 @@
          Login details:
          email:admin@admin.com
          password:123456
-##TechStack
+<br>
+<h3>TechStack</h3>
 -Frontend HTML,CSS,Javascript
 -Backend PHP (Laravel)
+
 
 
          
