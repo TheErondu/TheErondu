@@ -28,12 +28,17 @@
    🌱 Mileage Tracker for OB (outside broadcast vehicles)
    🌱 Store and Inventory Management
    🌱 Facility and Studio Booking.
-      <p>👨‍💻 <a href="http://129.205.123.122:7080"> Checkout a Demo Instance </a> </p><br>
+      <p>👨‍💻 <a href="http://154.113.177.237:7080"> Checkout a Demo Instance </a> </p><br>
       
          
          Login details:
          email:admin@admin.com
          password:123456
+##TechStack
+-Frontend HTML,CSS,Javascript
+-Backend PHP (Laravel)
+
+
          
          
 - 👨‍💻 WhatsApp Sender.
