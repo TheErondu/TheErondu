@@ -29,8 +29,10 @@ Currently, I work as a Full Stack Developer and Systems Administrator at [News C
 
 <h3>TechStack</h3>
 
-- **Frontend:** HTML, CSS, JavaScript
-- **Backend:** PHP (Laravel)
+- **Frontend:** 
+HTML, CSS, JavaScript for Web, Flutter(Dart) for Mobile. 
+- **Backend:** 
+Nodejs, PHP (Laravel), Rust, Python
 
 <br>
 
