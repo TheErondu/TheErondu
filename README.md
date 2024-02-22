@@ -47,12 +47,11 @@ Nodejs, PHP (Laravel), Rust, Python
 
 - 📫 **How to reach me:** [erone007@gmail.com](mailto:erone007@gmail.com)
 
-<a href="mailto:erone007@gmail.com"> 
+
   ![erone007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-</a> 
-<a href="https://linkedin.com/in/nuel0">  
+
   ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-</a>
+
 
 <br>
 
