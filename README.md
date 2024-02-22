@@ -22,8 +22,8 @@ Currently, I work as a Full Stack Developer and Systems Administrator at [News C
 
 - 👨‍💻 **Brave - Media Asset Management App:** A Workflow App for News and TV production made for Bravetech.media.
   - Features include media asset management, scheduling, ticketing and support, mileage tracker for outside broadcast vehicles, store and inventory management, and facility/studio booking.
-  - 👉 [Checkout a Demo Instance](http://154.113.177.237:7080)
-  - Login details: email: admin@admin.com, password: 123456
+  - 👉 [Checkout a Demo Instance](http://154.113.177.237:8006)
+  - Login details: email: demo@user.com, password: 123456
 
 <br>
 
