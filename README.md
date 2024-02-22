@@ -10,7 +10,7 @@
 
 <h3 align="center">Certified in logistics and Transport Technology from The Federal University of Technology Owerri, Imo State, Nigeria.</h3>
 
-- 🌱 I’m currently learning ** C# DotNet core** **AWS Cloud Computing Fundamentals.**
+- 🌱 I’m currently learning **Rust** and **AWS Cloud Computing Fundamentals.**
 
 <br>
 <h2>Projects in the Wild :wink:</h2>
@@ -40,7 +40,7 @@
 Send a message to Whatsapp Phone Numbers without saving to contacts.
 https://qodestone.dev/whatsapp-sender
 
-- 💬 Ask me about **PHP, Laravel,Flutter,React,Blogs,Gaming,Music.**
+- 💬 Ask me about **PHP, Laravel,Flutter,Rust,Blogs,Gaming,Music.**
 
 
 - ⚡ Fun fact **I'm a nerd who's very fun to be with.**
