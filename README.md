@@ -1,67 +1,54 @@
-<h1 align="center">Hi there! 👋 I'm Erondu Emmanuel</h1>
+<h1 align="center">Hi, I'm Emmanuel Erondu 👋</h1>
+<p align="center"><b>Senior Software Engineer · Lagos, Nigeria</b><br>
+I build software that actually works.</p>
 
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=neodavids.neodavids)
+<p align="center">
+  <a href="https://theerondu.github.io/">Portfolio</a> ·
+  <a href="https://theerondu.github.io/erondu_emmanuel_software_engineer_cv.pdf">CV</a> ·
+  <a href="https://www.linkedin.com/in/nuel0/">LinkedIn</a> ·
+  <a href="mailto:erondue@yahoo.com">Email</a>
+</p>
 
-<h2>About Me</h2>
+## About me
 
-I am a Fullstack PHP Laravel Developer with expertise in Bootstrap 5 and React for the frontend. Additionally, I specialize in developing Hybrid Mobile Apps using Flutter (Dart).
+I'm a senior software engineer with 6+ years building cross-platform apps
+and backend systems. I work across mobile (Flutter, Dart), web and backend
+(C#/ASP.NET, Laravel/PHP, JavaScript) and cloud (AWS, Azure, Google Cloud).
+I care about code that's clean, fast, and actually solves the problem.
 
-Currently, I work as a Full Stack Developer and Systems Administrator at [News Central TV](https://newscentral.africa) and as a frontend Software Engineer at [First Ally Capital](https://first-allyasset.com). I am involved in building the Mobile App for [Myinvestar](https://myinvestar.ng) - a digital wealth management application that helps you confidently invest and save.
+**Right now I'm:**
+- 🛠️ Team Lead, IT Support at [NewsCentral Television](https://newscentraltv.com)
+- 📱 Mobile Software Engineering Consultant at [First Ally Capital](https://first-allyasset.com/)
+- 🐾 Co-founder of [PetOrbit](https://petorbit.org), a pet care hub I'm building
 
-<h3 align="center">Certified in Logistics and Transport Technology from The Federal University of Technology Owerri, Imo State, Nigeria.</h3>
+## Selected work
 
-- 🌱 I’m currently learning **Rust** and **AWS Cloud Computing Fundamentals.**
+| Project | What it is | |
+|---|---|---|
+| **PetOrbit** | Pet care hub that brings everything your pet needs, and everyone who cares, into one platform | [petorbit.org](https://petorbit.org) |
+| **MyInvestar** | Digital wealth management for Nigerians: track, grow and protect your investments | [myinvestar.ng](https://myinvestar.ng) |
+| **News Central TV app** | Flutter app for News Central Television, built on a WordPress REST API | [Android](https://play.google.com/store/apps/details?id=app.newscentral.africa) · [iOS](https://apps.apple.com/us/app/news-central-tv-africa/id1544073979) |
+| **Onidemode Game Show** | Online Yoruba trivia game show, plus the desktop software that runs the live show | [onidemodegameshow.com](https://onidemodegameshow.com) |
+| **Casual Queen** | Fast, mobile-first e-commerce storefront for a Lagos fashion brand | [casualqueen.ng](https://casualqueen.ng) |
+| **Divine Connection** | Helping Christian singles find meaningful, God-centred relationships | [Check it out](https://theencouragers.org/divine-connection/) |
+| **Brave Media Asset Management** | Internal platform for organising and distributing broadcast content at scale | Private |
 
-<br>
+More, with previews, on my [portfolio](https://theerondu.github.io/).
 
-<h2>Projects in the Wild :wink:</h2>
+## Tech I reach for
 
-- 👨‍💻 **News Central Television App:** A Flutter app consuming a WordPress REST API for News Central Television, bringing the Best of Africa to the World.
-  - 👉 [Download for Android](https://play.google.com/store/apps/details?id=app.newscentral.africa&hl=gl&gl=US)
-  - 👉 [Download for iOS](https://apps.apple.com/us/app/news-central-tv-africa/id1544073979)
+**Mobile:** Flutter · Dart · React Native
+**Backend & web:** C# / ASP.NET · Laravel / PHP · JavaScript · SQL · Firebase
+**Cloud & DevOps:** Docker · AWS · Azure · Google Cloud · CI/CD
+**Workflow:** Git · Jira · Slack · REST APIs
 
-- 👨‍💻 **Brave - Media Asset Management App:** A Workflow App for News and TV production made for Bravetech.media.
-  - Features include media asset management, scheduling, ticketing and support, mileage tracker for outside broadcast vehicles, store and inventory management, and facility/studio booking.
-  - 👉 [Checkout a Demo Instance](http://154.113.177.237:8006)
-  - Login details: email: demo@user.com, password: 123456
- 
+## Let's work together
 
-<br>
+I'm open to new projects and comfortable working remotely with distributed
+teams. The fastest way to reach me is a message on
+[WhatsApp](https://wa.me/2348166289825) or [Telegram](https://t.me/TheErondu),
+or email [erondue@yahoo.com](mailto:erondue@yahoo.com).
 
-- 👨‍💻 **WhatsApp Sender:** Send a message to WhatsApp phone numbers without saving to contacts.
-  - 👉 [Try it out](https://qodestone.dev/whatsapp-sender)
-
-<br>
-
-<h3>TechStack</h3>
-
-- **Frontend:** 
-HTML, CSS, JavaScript for Web, Flutter(Dart) for Mobile. 
-- **Backend:** 
-Nodejs, PHP (Laravel), Rust, Python
-
-
-- 💬 Ask me about **PHP, Laravel, Flutter, Rust, Blogs, Gaming, Music.**
-
-- ⚡ Fun fact: I'm a nerd who's very fun to be with.
-
-<br>
-
-- 📫 **How to reach me:** [erone007@gmail.com](mailto:erone007@gmail.com)
-
-
-  ![erone007@gmail.com](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
-
-  ![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-
-
-<br>
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=theerondu&layout=compact)
-
-<br>
-
-![Overall Stats](https://github-readme-stats.vercel.app/api?username=theerondu&count_private=true&show_icons=true&hide=contribs)
-
-<!-- BLOG-POST-LIST:START -->
-<!-- BLOG-POST-LIST:END -->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=theerondu&layout=compact&theme=transparent" alt="Top languages" />
+</p>
